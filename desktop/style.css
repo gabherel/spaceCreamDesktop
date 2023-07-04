@@ -55,7 +55,7 @@ h1 {
 }
 
 
-.textp p{
+.text_p p{
   font-size: 1.6em;
   color: var(--fc-text);
   line-height: 2rem;
@@ -63,7 +63,7 @@ h1 {
   width: 100%;
 }
 
-.textp {
+.text_p {
   background-color: var(--bg-main);
   width: 100%;
   margin-top: 2rem;
@@ -191,12 +191,12 @@ footer {
     max-height: 108rem;
   }
 
-  .textp {
+  .text_p {
     max-width: 100%;
     padding: 0;
   }
 
-  .textp p {
+  .text_p p {
     position: absolute;
     padding: 3rem 4rem;
     color: #FFFFFF;
